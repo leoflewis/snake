@@ -2,8 +2,6 @@ import pygame
 import random
 import time
 
-
-
 pygame.init()
 
 black=(0,0,0)
